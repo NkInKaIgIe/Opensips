@@ -1,2 +1,0 @@
-# Opensips
-Opensips configure
